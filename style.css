@@ -1,0 +1,273 @@
+
+.container
+{
+    width: 1500px;
+    margin: 0px auto;
+}
+
+.top-header
+{
+    background: #2196f3;
+    padding: 5px 0px;
+    border-bottom: 1px solid #3131315e;
+    
+}
+.news
+{
+   background: white;
+   color: red;
+   margin-left:10px ;
+   font-size: 20px; 
+   padding: 2px;
+    
+}
+.news-list
+{
+    color: white;
+    font-size: 15px;
+    width: 1000px;
+
+}
+img
+{
+    height:100px ;
+    width:400px ;
+}
+.logo
+{
+    width: fit-content;
+    float: left;
+}
+
+.head-menu
+{
+    position: relative;
+    box-shadow: 0px 1px 6px 0px blue;
+}
+.navbar
+{
+    list-style: none;
+    float: right;
+    margin-top: 10px;
+}
+.navbar a
+{
+    color: #3a3a3a;
+    font-weight: 800px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.navbar li
+{
+    float: left;
+    padding: 15px;
+}
+.vignan
+{
+    width: 100%;
+    height: 300px;
+}
+.new
+{
+    height: 10px;
+    width: 20px;
+
+}
+.margin-top
+{ 
+    margin-top: 50px;
+
+}
+.width-30
+{
+   width: 33%;
+   float: left;
+}
+.latest-news
+{
+  margin-left: 10px;
+  margin-right: 10px;
+  background:lightgrey;
+  padding: 5px;
+  height: 350px;
+  margin-bottom: 30px;
+}
+.heading-box
+{
+border: 0.5px solid #fff;
+padding-left: 10px;
+background: #00aed9;
+color: white;
+}
+h3
+{
+   font-weight: 500;
+}
+.latest-news-ul
+{
+  list-style: disc;
+  line-height: 16px;
+}
+.Events-ul
+{
+    line-height: 30px;
+}
+.Notice-ul
+{
+    list-style: none;
+    line-height: 30px;
+}
+.doc
+{
+    height: 20px;
+    width: 25px;
+}
+.Information-ul
+{
+    list-style: none;
+    line-height: 25px;
+}
+.book
+{
+    height: 15px;
+    width: 15px;
+}
+.width-100
+{
+    margin: 10px;
+    border-bottom: 1px solid #0000;
+    padding: 10px;
+    
+}
+
+.cheaf
+{
+    height: 90px;
+    width: 100px;
+    
+}
+.width-30
+{
+    width: 30%;
+    float: left;
+}
+.width-70
+{
+    width: 70%;
+    float: left;
+}
+.name
+{
+   font-size: 20px;
+   color: black;
+   font-weight: bold;
+}
+.designation
+{
+   font-size: 15px;
+    color: black;
+}
+.chair
+{
+    height: 5px;
+    width: 50px;
+    
+}
+.Gallery
+{
+    margin-top: 50px;
+}
+
+.Gallery-box
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    background:lightgrey;
+    padding: 5px;
+    height: 350px;
+    margin-bottom: 30px;
+}
+.heading-box-gallery
+{
+    border: 0.5px solid #fff;
+    padding-left: 10px;
+    background: #00aed9;
+    color: white;
+}
+.all-gal
+{
+    height: 100px;
+    width: 100px;
+}
+.all-gal-1
+{
+    height: 80px;
+    width: 150px;
+
+}
+.all-gal-2
+{
+    height: 80px;
+    width: 110px;
+}
+.courses-ul
+{
+ line-height: 50px; 
+}
+.heading-box-company
+{
+    width: 100%;
+}
+h2
+{
+    font-weight: bold;
+    font-size: 30px;
+}
+.company-logo
+{
+    height: 50px;
+    width: 200px ;
+}
+.footer
+{
+   background: rgb(10, 10, 185);
+   padding: 25px;
+   height: 210px;
+}
+.footer-head
+{
+  color: white;
+  font-size: 25px;
+  padding-left: 15px;
+  margin-left: 5px;
+}
+.footer-data
+{
+  font-size: 18px;
+  list-style: none;
+  padding-left: 15px;
+  line-height: 30px;
+
+  
+}
+.footer-data li a
+{
+   
+   color: white;
+   text-decoration: none;
+   
+}
+.Contact-icon
+{
+    height: 20px ;
+    width:20px ;
+    margin-right: 5px;
+}
+
+
+
+
+
+
+
+
